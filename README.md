@@ -13,7 +13,13 @@ Books on Effective Altruism: [Doing Good Better](https://www.effectivealtruism.o
 
 [Free Code Camp](https://www.freecodecamp.org/) [Free tech learning resources, including weekly newsletter of new courses]
 
-Programming Throwdown
+[Programming Throwdown]()
+
+Software Engineering Daily
+
+Linux Unplugged
+
+Honestly, Youtube is often very helpful for introductions to specific technologies
 
 ## Ethical Issues in Tech
 
