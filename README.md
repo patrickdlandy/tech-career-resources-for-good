@@ -68,6 +68,14 @@ The usual: LinkedIn, AngelList, Greenhouse, ZipRecruiter, Indeed
 
 ### AI Risks
 
+### Ethics in Tech
+
+[Electronic Frontier Foundation](https://www.eff.org/)
+
+[Center for Humane Technology](https://www.humanetech.com/) [led by Tristan Harris, featured in The Social Dilemma]
+
 ### Animals
 
+[The Humane League](https://thehumaneleague.org/) 
 
+[Wild Animal Initiative]()
