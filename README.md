@@ -41,14 +41,16 @@ This list of resources is intended to be a thought-provoking reference point for
 
 [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) (Ethics of using AI/ML)
 
-### Selected Resources from [App Academy](https://www.appacademy.io/) Culture Curriculum (~2019)
+### Diversity, Equity, and Inclusion Web Resources
 
-* [hired.com wage inequality report](https://hired.com/h/wage-inequality-report)
-* [2019 LGBTQ Workplace Equality Fact Sheet](https://outandequal.org/2019wefs/)
-* [Harvard Business Review study on sexism in entrepreunership/venture capital](https://hbr.org/2017/05/we-recorded-vcs-conversations-and-analyzed-how-differently-they-talk-about-female-entrepreneurs)
-* [Intersectionality Theory](https://time.com/5560575/intersectionality-theory/)
-* [Ageism in Tech](https://www.fastcompany.com/3054204/is-ageism-in-tech-an-under-the-radar-diversity-issue)
+* Selected Resources from [App Academy](https://www.appacademy.io/) Culture Curriculum (~2019)
 
+    * [hired.com wage inequality report](https://hired.com/h/wage-inequality-report)
+    * [2019 LGBTQ Workplace Equality Fact Sheet](https://outandequal.org/2019wefs/)
+    * [Harvard Business Review study on sexism in entrepreunership/venture capital](https://hbr.org/2017/05/we-recorded-vcs-conversations-and-analyzed-how-differently-they-talk-about-female-entrepreneurs)
+    * [Intersectionality Theory](https://time.com/5560575/intersectionality-theory/)
+    * [Ageism in Tech](https://www.fastcompany.com/3054204/is-ageism-in-tech-an-under-the-radar-diversity-issue)
+* [Pew Research on Diversity in STEM](https://www.pewresearch.org/social-trends/2018/01/09/diversity-in-the-stem-workforce-varies-widely-across-jobs/)
 
 ### Documentaries
 [The Social Dilemma](https://www.thesocialdilemma.com/) (Tristan Harris, former Google employee, discusses problematic incentives of social platforms)
