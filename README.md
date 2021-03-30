@@ -172,7 +172,7 @@ These include specific organizations to donate to or apply to if software positi
     - [National Council for Incarcerated and Formerly Incarcerated Women and Girls](https://www.nationalcouncil.us/)
     - [JusticeLA](https://justicelanow.org/)
     - [Real Justice PAC](https://realjusticepac.org/)
-
+- Community Bail Funds (search locally)
 
 ### Ethics in Tech
 
