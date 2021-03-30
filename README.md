@@ -79,7 +79,7 @@ This list of resources is intended to be a thought-provoking reference point for
 
 ## Specific Cause Area Resources
 
-These include specific organizations to donate to or apply to when software positions open. Some cause areas include resources I found helpful while personally researching the topic.
+These include specific organizations to donate to or apply to if software positions open (not all of them hire software engineers, but some do). Some cause areas include resources I found helpful while personally researching the topic.
 
 ### AI Safety and Policy
 
@@ -88,13 +88,13 @@ These include specific organizations to donate to or apply to when software posi
 
 ### Public Health
 
-- [GiveWell](https://www.givewell.org/) publishes rankings of public health charities including:
-    - Against Malaria Foundation
-    - Malaria Consortium
-    - Deworm the World Initiative
-    - Helen Keller International
-    - The END Fund
-- Fistula Foundation
+- [GiveWell](https://www.givewell.org/) publishes rankings and analysis of public health charities including:
+    - [Against Malaria Foundation](https://www.againstmalaria.com/)
+    - [Malaria Consortium](https://www.malariaconsortium.org/)
+    - [Deworm the World Initiative](https://www.evidenceaction.org/dewormtheworld/)
+    - [Helen Keller International](https://www.hki.org/)
+    - [The END Fund](https://end.org/)
+- [Fistula Foundation](https://fistulafoundation.org/)
 
 
 ### Pandemic Risks
@@ -105,17 +105,60 @@ These include specific organizations to donate to or apply to when software posi
 ### Climate Change
 
 - Nonprofits (Policy Advocacy)
-    - CATF
+    - [Clean Air Task Force](https://www.catf.us/)
+    - [Coalition for Rainforest Nations](https://www.rainforestcoalition.org/)
+    - [EarthJustice](https://earthjustice.org/)
+    - [Natural Resources Defense Council](https://www.nrdc.org/)
+    - [Environmental Defense Fund](https://www.edf.org/)
+    - [Carbon180](https://carbon180.org/)
+    - [Rainforest Action Network](https://www.ran.org/)
 - Tech Companies
+    - [Joro](https://www.joro.tech/) - Carbon Offset App
+    - [Nori](https://nori.com/) - Carbon Offsets + Blockchain
+    - [BlocPower](https://www.blocpower.io/) - Decarbonizing small buildings 
+    - [Tesla](https://www.tesla.com/) - Electric Vehicles
+    - [Rivian](https://rivian.com/) - Electric Vehicles
+    - [Carbon Engineering](https://carbonengineering.com/) - Carbon Capture
+    - [ClimeWorks](https://www.climeworks.com/) - Carbon Capture
+    - [Global Thermostat](https://globalthermostat.com/) - Carbon Capture
+    - [Dandelion](https://dandelionenergy.com/) - Geothermal Heat Pumps
 - Political/Activist Organizations
-    - Sunrise Movement
-    - Extinction Rebellion
-    - EarthJustice
+    - [Sunrise Movement](https://www.sunrisemovement.org/)
+    - [Extinction Rebellion](https://rebellion.global/)
+    - [Greenpeace](https://www.greenpeace.org/usa/)
+    - [Citizen's Climate Lobby](https://citizensclimatelobby.org/)
+    - [Moms Clean Air Force](https://www.momscleanairforce.org/)
 - Podcasts
+    - [How to Save a Planet](https://gimletmedia.com/shows/howtosaveaplanet) - Good starting point for newcomers
+    - [The Energy Gang](https://www.greentechmedia.com/podcast/the-energy-gang)
+    - [The Interchange](https://www.greentechmedia.com/podcast/the-interchange)
+    - [My Climate Journey](https://www.myclimatejourney.co/)
+    - [Political Climate](https://www.politicalclimatepodcast.com/episodes) (on hiatus currently)
+    - [Drilled](https://www.criticalfrequency.org/drilled)
 - Books
+    - [Drawdown](https://www.drawdown.org/the-book) (edited by Paul Hawken)
+    - [All We Can Save](https://www.allwecansave.earth/anthology) by Ayana Elizabeth Johnson and Katharine K. Wilkinson
+    - [Carbon Capture](https://mitpress.mit.edu/books/carbon-capture) by Howard J. Herzog
+    - [Fixing Climate](https://www.goodreads.com/book/show/18531124-fixing-climate) by Robert Kunzig and Wallace S. Broecker
+    - [Reinventing Fire](https://rmi.org/insight/reinventing-fire/) by Amory Lovins/Rocky Mountain Institute
+    - [The Climate Casino](https://yalebooks.yale.edu/book/9780300212648/climate-casino) by William Nordhaus
+    - [We are the Weather](https://wearetheweatherbook.com/) by Jonathan Safran-Foer
 - Documentaries
+    - [An Inconvenient Truth](https://www.imdb.com/title/tt0497116/)
+    - [An Inconvenient Sequel](http://www.aninconvenientsequel.com/)
+    - [Before the Flood](https://www.beforetheflood.com/)
 - News Resources
+    - [Inside Climate News](https://insideclimatenews.org/)
+    - [Heated Newsletter](https://heated.world/)
+    - [New York Times Climate Fwd](https://www.nytimes.com/column/climate-fwd)
 - Carbon Offsets
+    - [Tradewater](https://tradewater.us/)
+    - [Cool Effect](https://www.cooleffect.org/)
+- Web Resources
+    - [Project Drawdown](https://www.drawdown.org/)
+    - Intergovernmental Panel on Climate Change
+        - [1.5 Degree Report](https://www.ipcc.ch/sr15/)
+        - [Synthesis Report](https://www.ipcc.ch/assessment-report/ar6/)
 
 ### Racial Justice
 
@@ -130,11 +173,6 @@ These include specific organizations to donate to or apply to when software posi
     - [JusticeLA](https://justicelanow.org/)
     - [Real Justice PAC](https://realjusticepac.org/)
 
-
-### AI Risks
-
-- [MIRI: Machine Intelligence Research Institute](https://intelligence.org/)
-- [DeepMind](https://deepmind.com/)
 
 ### Ethics in Tech
 
