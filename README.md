@@ -2,11 +2,17 @@
 
 This list of resources is intended to be a thought-provoking reference point for early-career software developers looking to make a positive impact in the world. It is brief and by no means complete, and there are countless causes, organizations, resources, and experiences not represented here. I personally found many of these resources helpful during my career transition into tech with an ethical focus, and I hope it helps you in your own explorations.
 
+## Slides
+
+[2021-03-31 Presentation at MintBean: Using your tech career to do good](./2021-03-31_PL-presentation-tech-for-good-PUBLIC.pdf)
+
 ## Tech Training Resources
 
 ### Websites
 
 [Free Code Camp](https://www.freecodecamp.org/) (Free tech learning resources, including weekly newsletter of new courses)
+
+[MintBean](https://www.mintbean.io/) (Developer community and education, including hackathons and speaker events)
 
 ### Podcasts
 
